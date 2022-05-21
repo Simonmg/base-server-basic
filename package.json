@@ -1,5 +1,5 @@
 {
-  "name": "hatchways",
+  "name": "example-server",
   "version": "1.0.0",
   "description": "example api",
   "main": "index.ts",
@@ -11,8 +11,7 @@
     "build:clean": "rimraf build"
   },
   "keywords": [
-    "api",
-    "hatchways"
+    "api"
   ],
   "author": "eduardidn",
   "license": "ISC",
